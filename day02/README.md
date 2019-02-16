@@ -127,7 +127,7 @@ export default Content
 
 修改下路由配置,浏览器访问:
 
-![b0d2727de7498e6022049d7b073b4916.png](evernotecid://41B71749-9C6B-4BEB-B6D2-A0779CA7CFC6/appyinxiangcom/11014640/ENResource/p985)
+![](https://imgchr.github.la/20190216231754_ks4EV5_32D361FB-0865-4C6D-B838-3C6A11E94964.jpeg)
 
 ### 参数传递
 
@@ -191,7 +191,8 @@ export default Content
 
 可以看到我们给 `ShoppingList` 多添加了一个 `li` 标签，接下来看看输出:
 
-![6e2173ae634bab1595fe3b8447d57527.png](evernotecid://41B71749-9C6B-4BEB-B6D2-A0779CA7CFC6/appyinxiangcom/11014640/ENResource/p986)
+
+![](https://imgchr.github.la/20190216231837_tjP4eh_AE842C7E-B4F9-42A1-98C7-3B49B5CA189C.jpeg)
 
 没有什么能比这张图片表达的还要多了。
 
@@ -392,6 +393,6 @@ export default () => {
 
 打开浏览器,查看效果:
 
-![369f91de20361ffa24e29eab59819c94.png](evernotecid://41B71749-9C6B-4BEB-B6D2-A0779CA7CFC6/appyinxiangcom/11014640/ENResource/p987)
+![](https://imgchr.github.la/20190216231905_Egcihe_01FC99F3-E9D7-442C-93B4-A69322D80F55.jpeg)
 
 配合之前的组件使用代码 你能看懂上面的代码吗？ 应该是很容易理解的。
