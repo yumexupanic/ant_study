@@ -2,7 +2,6 @@ import React,{Component} from 'react'
 import {Card,Button} from 'antd'
 import {connect} from 'dva'
 
-
 const namespace = 'puzzlecards'
 
 const mapStateToProps = (state) => {
@@ -61,7 +60,6 @@ class PuzzleCardsPage extends React.Component{
             </div>
         )
     }
-
 }
 
 export default PuzzleCardsPage

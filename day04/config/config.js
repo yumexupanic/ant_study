@@ -16,7 +16,6 @@ export default{
         path: '/',
         component: '../layout',
         routes: [
-            {path: '/',component: './HelloWorld',},
             {path: 'puzzlecards',component: './dvaPuzzlecards'},
             {
                 page: '/dashboard',
